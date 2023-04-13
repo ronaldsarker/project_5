@@ -1,0 +1,64 @@
+body { 
+    background: lightblue ; 
+}
+.info{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+#first_name{
+	width: 90%;
+	height: 20px;
+	padding: 7px;
+	font-size: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+label{
+	font-size: 20px;
+}
+#last_name{
+	width: 90%;
+	height: 20px;
+	padding: 7px;
+	font-size: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#email{
+	width: 90%;
+	height: 20px;
+	padding: 7px;
+	font-size: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+legend{
+	font-size: 49px;
+}
+#password{
+	width: 90%;
+	height: 20px;
+	padding: 7px;
+	font-size: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#message{
+	width: 90%;
+	height: 130px;
+	padding: 7px;
+	font-size: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
